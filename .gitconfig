@@ -1,0 +1,8 @@
+[user]
+	name = sai
+	email = saikarthik2411@gmail.com
+[merge]
+	tool = vimdiff
+	conflictstyle = diff3
+[mergetool]
+	prompt = false
